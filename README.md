@@ -24,7 +24,9 @@
 <img width="598" height="466" alt="image" src="https://github.com/user-attachments/assets/734d0f26-d07c-4271-b2e7-2120d0fdd2e3" />
 <img width="599" height="473" alt="image" src="https://github.com/user-attachments/assets/de46c252-ac4a-43ae-9225-980f12fc811e" />
 <img width="849" height="234" alt="image" src="https://github.com/user-attachments/assets/a8215e98-dac3-4bc0-af72-9cd7e0abc697" />
- 
+
+<br>
+
 # Part 3: Apache HTTP Server - Configuració Bàsica
 <img width="791" height="388" alt="image" src="https://github.com/user-attachments/assets/6014e5a3-9541-40ea-a628-663da2010f1a" />
 <img width="806" height="154" alt="image" src="https://github.com/user-attachments/assets/c2bd5854-6fa2-445c-96ac-705f812b1a21" />

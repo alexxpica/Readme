@@ -33,7 +33,7 @@
 <img width="810" height="630" alt="image" src="https://github.com/user-attachments/assets/b4a831cc-2a11-48a4-b41d-fbb211d13863" />
 <img width="886" height="538" alt="image" src="https://github.com/user-attachments/assets/14369dc1-88cd-4301-a364-6b9e057fc47f" />
 <img width="1029" height="333" alt="image" src="https://github.com/user-attachments/assets/9f510847-e5de-424b-ad54-79e7a85ff97f" />
-### Parem el servei y eliminem totes les copies dels exemples d’abans i fem la redirecció.
+Parem el servei y eliminem totes les copies dels exemples d’abans i fem la redirecció.
 
 # Part 4: Configuració Avançada d'Apache
 <img width="886" height="402" alt="image" src="https://github.com/user-attachments/assets/faa9fb7c-e3de-42b2-b414-0507b111410e" />

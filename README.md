@@ -47,7 +47,9 @@ Parem el servei y eliminem totes les copies dels exemples d’abans i fem la red
 <img width="886" height="226" alt="image" src="https://github.com/user-attachments/assets/afcc8510-5988-48b2-8044-04721b7e939f" />
 <img width="886" height="278" alt="image" src="https://github.com/user-attachments/assets/1ac30038-30de-4ca4-9b6b-80791c052693" />
 <img width="886" height="531" alt="image" src="https://github.com/user-attachments/assets/f8d288c5-e4a5-42f7-b670-4f432bb97801" />
- 
+
+<br>
+
 # Part 6: Projecte Final
 
 He muntat un stack complet amb Apache, MySQL, Redis i phpMyAdmin tot integrat amb Docker Compose.

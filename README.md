@@ -179,6 +179,8 @@ projecte_final/
 ## Redis està funcionant i registra visites
 <img width="886" height="109" alt="image" src="https://github.com/user-attachments/assets/b92a5e97-687d-427b-bf64-9bdf2b78da49" />
  
+<br>
+
 ## phpMyAdmin permet administrar la base de dades 
 <img width="886" height="482" alt="image" src="https://github.com/user-attachments/assets/fcb884ae-50de-4b53-90eb-d7cabe8ec56f" />
 

@@ -1,13 +1,13 @@
 # Readme
 Pràctiques (reptes) i projecte de Docker i Apache HTTP Server
 Índex
-Introducció i Objectius	1
-Part 1: Fonaments de Docker	2
-Part 2: Dockerfile - Creant les Nostres Pròpies Imatges	5
-Part 3: Apache HTTP Server - Configuració Bàsica	7
-Part 4: Configuració Avançada d'Apache	9
-Part 5: Docker Compose - Orquestració de Contenidors	11
-Part 6: Projecte Final	13
+Introducció i Objectius
+Part 1: Fonaments de Docker
+Part 2: Dockerfile - Creant les Nostres Pròpies Imatges
+Part 3: Apache HTTP Server - Configuració Bàsica
+Part 4: Configuració Avançada d'Apache
+Part 5: Docker Compose - Orquestració de Contenidors
+Part 6: Projecte Final
 
 Introducció i Objectius
 
@@ -149,6 +149,7 @@ projecte_final/
 - Si MySQL no va, espera una mica que triga en inicialitzar-se la primera vegada
 - Assegura't que els ports 80, 443 i 8080 estan lliures
 
+📷 Resultats del projecte
 L'aplicació s'inicia correctament amb docker compose up -d
 <img width="886" height="421" alt="image" src="https://github.com/user-attachments/assets/a330b1c0-897e-4ed9-a897-c3826fc3024b" />
 <img width="799" height="283" alt="image" src="https://github.com/user-attachments/assets/df6a31e3-80e3-4136-93df-e6a3d3531434" />

@@ -40,6 +40,8 @@ Parem el servei y eliminem totes les copies dels exemples d’abans i fem la red
 <img width="886" height="381" alt="image" src="https://github.com/user-attachments/assets/7ab9083c-6fb6-4aa5-8d50-bc0d4b1e163c" />
 <img width="886" height="595" alt="image" src="https://github.com/user-attachments/assets/9600cf09-8762-4908-bfdd-ef746ccded7f" />
 
+<br>
+
 # Part 5: Docker Compose - Orquestració de Contenidors
 <img width="886" height="882" alt="image" src="https://github.com/user-attachments/assets/779929f4-4f21-4697-87f2-80db26569f3b" />
 <img width="886" height="226" alt="image" src="https://github.com/user-attachments/assets/afcc8510-5988-48b2-8044-04721b7e939f" />
@@ -177,7 +179,9 @@ projecte_final/
  
 ## phpMyAdmin permet administrar la base de dades 
 <img width="886" height="482" alt="image" src="https://github.com/user-attachments/assets/fcb884ae-50de-4b53-90eb-d7cabe8ec56f" />
-  
+
+<br>
+
 ## L'API retorna JSON vàlid 
 <img width="886" height="623" alt="image" src="https://github.com/user-attachments/assets/a2b67b28-656a-419b-8594-64426dfd7b44" />
  
